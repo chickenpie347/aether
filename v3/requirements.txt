@@ -1,0 +1,5 @@
+aioquic==1.7.2
+cryptography>=42
+cbor2>=5.6
+kyber-py==1.2.0
+dilithium-py==1.5.1
