@@ -176,4 +176,4 @@ listed above as vulnerabilities. For anything else security-relevant, contact [m
 
 ## License
 
-[Choose a license. Note the dependencies' licences when deciding.]
+GNU General Public License v3.0
